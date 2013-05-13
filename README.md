@@ -2,12 +2,11 @@
 Computer Scientist & Engineer
 
 > Mobile: +420 776 186 360 
-> Email: mtkocak@mtkocak.net
-> Blog: http://www.mtkocak.net
-> Github: http://www.github.com/mtkocak
+> Email: mtkocak@mtkocak.net 
+> Blog: http://www.mtkocak.net 
+> Github: http://www.github.com/mtkocak 
 > Book: http://www.meraklibilisimci.com 
-
-> Adress: Parizska 5, Praha 1, 110 00 Prague Czech Republic
+> Adress: Parizska 5, Praha 1, 110 00 Prague Czech Republic 
 > Birthdate: 10 May 1984 
 
 ## About
