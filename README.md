@@ -15,7 +15,7 @@ Software engineer experienced on online software built with PHP and PHP framewor
 
 ## Education
 
-### Student at Sabanci University | Computer Science & Engineering
+### Sabanci University | Computer Science & Engineering
 September 2006 - August 2010
 
 University Projects 
@@ -28,14 +28,14 @@ University Projects
 * Supervisor at Civic Involvement Projects of Sabanci University (2007)
 * Sabanci University Weather Station Project (2006)
 
-### Student at Italian Middle & High School of Istanbul 
+### Italian Middle & High School of Istanbul 
 September 1996 – June 2003 
 
-Fluently speaking Italian & English languages. 
+> Fluently speaking Italian & English languages. 
 
 ## Work Experience
 
-###Software Engineer & IT Manager at Golden & Silver, s.r.o
+### Golden & Silver, s.r.o | Software Engineer & IT Manager
 Nowember 2012 - Present
 
 > Management & co-development of Software Projects, IT Infrastructure, virtualisation of existing business apps on Microsoft Azure Platform, leading of creative team.
@@ -63,12 +63,12 @@ Highlights from some freelance projects:
 * Topjewellery Magazine Page Design (2008)
 * $Saruhan Holdings TV AD http://www.saruhan.com.tr/tr/ (2007)
 
-### Software Developer at Promoqube
+### Promoqube | Software Developer
 February 2011 - June 2012 
 
 > Development of Zumbara project based on Symfony framework. Database migration. HTML5 and CSS3 support. JQuery for site elements. http://www.zumbara.com
 
-### Trainee at Pusula Software 
+### Pusula Software | Trainee
 May 2010 – August 2010
  
 > Summer Project based of gathering customer requests and translating them into SQL language phrases. Information about database architecture and software structure was the key experience gained. http://www.pusulanet.net
