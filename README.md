@@ -2,7 +2,7 @@
 Computer Scientist & Engineer
 
 > Mobile: +420 776 186 360 
-> mtkocak@mtkocak.net
+> Email: mtkocak@mtkocak.net
 > Blog: http://www.mtkocak.net
 > Github: http://www.github.com/mtkocak
 > Book: http://www.meraklibilisimci.com 
