@@ -93,15 +93,24 @@ May 2010 – August 2010
 Attended events such as expo, conference and summit about IT & Software 
 
 * Jquery Developer Summit Washington DC 
-    - 15-16 October 2012 Invited to summit as open source contributor 
+15-16 October 2012 
+Invited to summit as open source contributor 
+
 * Jquery Conference San Francisco 
-    - 28-29 June 2012 Attended to conference 
+28-29 June 2012 
+Attended to conference 
+
 * Web 2.0 Expo New York 
-    - 10-13 October 2011 Attended to conference 
+10-13 October 2011
+Attended to conference 
+
 * CakeFest 2011 Manchester 
-    - 1-3 September 2011 Attended to conference and workshop 
+1-3 September 2011 
+Attended to conference and workshop 
+
 * IT Summit of Turkey, Youth Summit 
-    - 11 October 2008 Summit contributor 
+11 October 2008 
+Summit contributor 
 
 ## Personal Interests
 Music | Fruity Loops | Logic Pro | Playing Drums and Guitar | Chorist 
