@@ -19,14 +19,14 @@ Software engineer experienced on online software built with PHP and PHP framewor
 September 2006 - August 2010
 
 University Projects 
-    - “3D Laser Scanner and Prosthetic Production” (2010)
-    - Data Mining (2010)
-    - Encrypted Network Messaging Software (2010)
-    - Digital Automat (2009)
-    - Several C++ projects (2008)
-    - Supervisor of “Biogas Production using Food waste” (2007) 
-    - Supervisor at Civic Involvement Projects of Sabanci University (2007)
-    - Sabanci University Weather Station Project (2006)
+* “3D Laser Scanner and Prosthetic Production” (2010)
+* Data Mining (2010)
+* Encrypted Network Messaging Software (2010)
+* Digital Automat (2009)
+* Several C++ projects (2008)
+* Supervisor of “Biogas Production using Food waste” (2007) 
+* Supervisor at Civic Involvement Projects of Sabanci University (2007)
+* Sabanci University Weather Station Project (2006)
 
 ### Student at Italian Middle & High School of Istanbul 
 September 1996 – June 2003 
@@ -50,18 +50,18 @@ November 2007 - January 2011
 > Online, mobile application and portal software development, database modelling, CMS, CRM and E-Commerce solutions. Also 3D modelling and animation for several customers
 
 Highlights from some freelance projects:
-    - Book of Internet Programming Series http://www.kodlab.com (2012)
-    - Authake Authorization Plugin https://github.com/mtkocak/authake  (2012)
-    – Funmap http://www.mtkocak.net/funmap.htm  (2012)
-    – Twitter Bootstrappifier for CakePHP https://github.com/mtkocak/Cakephp-Bootstrappifier  (2012)
-    – Kocakgold.com CMS Software http://kocakgold.com/  (2011)
-    - CakePHP Configurate Plugin https://github.com/mtkocak/Configurate-Plugin-for-CakePHP (2011)
-    - arayuzgaleri.com http://arayuzgaleri.com/php/index.php?mid=0&dl=1&mod=1 (2011)
-    – Radsis Web Development Design Pack https://github.com/mtkocak/Radsis-Webapp-Framework (2010)
-    – Online Invoice Management System (2009)
-    – Oneymetal.com Web Design http://www.oneymetal.com/ (2009)
-    – Topjewellery Magazine Page Design (2008)
-     – Saruhan Holdings TV AD http://www.saruhan.com.tr/tr/ (2007)
+* Book of Internet Programming Series http://www.kodlab.com (2012)
+* Authake Authorization Plugin https://github.com/mtkocak/authake  (2012)
+* Funmap http://www.mtkocak.net/funmap.htm  (2012)
+* Twitter Bootstrappifier for CakePHP https://github.com/mtkocak/Cakephp-Bootstrappifier  (2012)
+* Kocakgold.com CMS Software http://kocakgold.com/  (2011)
+* CakePHP Configurate Plugin https://github.com/mtkocak/Configurate-Plugin-for-CakePHP (2011)
+* arayuzgaleri.com http://arayuzgaleri.com/php/index.php?mid=0&dl=1&mod=1 (2011)
+* Radsis Web Development Design Pack https://github.com/mtkocak/Radsis-Webapp-Framework (2010)
+* Online Invoice Management System (2009)
+* Oneymetal.com Web Design http://www.oneymetal.com/ (2009)
+* Topjewellery Magazine Page Design (2008)
+* $Saruhan Holdings TV AD http://www.saruhan.com.tr/tr/ (2007)
 
 ### Software Developer at Promoqube
 February 2011 - June 2012 
@@ -75,19 +75,19 @@ May 2010 – August 2010
 
 ## Skills
 
-    - PHP | CakePHP | Symfony | MySQL | MongoDB | JavaScript | AJAX | Jquery | Jquery UI | CSS3 | HTML5  
-    - Web Performance | Server Maintenance | SSH | Microdata |Search Engine Optimization | Plesk 
-    - Online Software Management Tools | Github | LivePlan | BaseCamp | Lighthouse Bug Tracking Service  
-    - C++ | C# | .Net | Mono | Monotouch | ActionScript 
-    - R Data Miner | Orange | wxApriori 
-    - Adobe Photoshop | Flash | DW | QuarkXpress | Cinema 4D |Autodesk Revit 
+* PHP | CakePHP | Symfony | MySQL | MongoDB | JavaScript | AJAX | Jquery | Jquery UI | CSS3 | HTML5  
+* Web Performance | Server Maintenance | SSH | Microdata | Search Engine Optimization | Plesk 
+* Online Software Management Tools | Github | LivePlan | BaseCamp | Lighthouse Bug Tracking Service  
+* C++ | C# | .Net | Mono | Monotouch | ActionScript 
+* R Data Miner | Orange | wxApriori 
+*  Adobe Photoshop | Flash | DW | QuarkXpress | Cinema 4D | Autodesk Revit 
 
 ## Language Skills
 
-    - Turkish (Mother tongue)
-    - English (Fluent)
-    - Italian (Fluent, high school taught in Italian) 
-    - Czech-beginner
+* Turkish (Mother tongue)
+* English (Fluent)
+* Italian (Fluent, high school taught in Italian) 
+* Czech-beginner
 
 ## Other activities
 Attended events such as expo, conference and summit about IT & Software 
