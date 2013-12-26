@@ -1,5 +1,5 @@
 # Ela Kaçar
-Computer Scientist & Engineer
+Cinema and TV Student & Creative Writer
 
 > Mobile: +90 531 622 05 85
 > Email: ela_kacar@hotmail.com_ 
