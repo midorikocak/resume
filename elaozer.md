@@ -8,7 +8,7 @@ Cinema and TV Student & Creative Writer
 
 ## About
 
-Senior student Cinema&TV Student at Istanbul Bilgi University, Author at awarded Bilgili Dunya blog, LGBT Rights Activist, photographer and amateur documentary director at MaskIstanbul Voluntary Art Organization based on Istanbul and supervised by Fatih Kolçak & Janset Karavin, representative of Awarded My Child Documentary about LGBT Families in Turkey. 
+Senior Cinema&TV Student at Istanbul Bilgi University, Author at awarded Bilgili Dunya blog, LGBT Rights Activist, photographer and amateur documentary director at MaskIstanbul Voluntary Art Organization based on Istanbul and supervised by Fatih Kolçak & Janset Karavin, representative of Awarded My Child Documentary about LGBT Families in Turkey. 
 
 ## Education
 
