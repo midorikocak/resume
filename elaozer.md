@@ -24,6 +24,7 @@ University Projects
 * Made studies and wrote essays about film reading lesson supervised by Yeşim Seven
 * Photography studies supervised by Orhan Cem Çetin
 * Screenwriting studies supervised by Feride Cicekohglu
+* Had lectures about Children & Media. Made project about "Turkey's Children Brides" supervised by Ayşe Beyazova
 
 ### Ata College
 September 2004 - June 2007
@@ -37,15 +38,30 @@ September 2007 - June 2008
 
 ## Work Experience
 
+### Trainee at Mart Ajans
+January 2014 - Present
+> Intern at agency supervised by Beti Hekimoglu and Salih Memecan, training at social media, marketing and promotion.
+
+### Author at Azınlık Sanat
+January 2014 - Presetn
+
+> Writing essays about art, lifestyle, movies and social issues. Blog is supervised by Ergi Ozcan, social media director at Medya Derneği (Media Association of Turkey)
+
+
 ### Author at awarded blog "Bilgili Dunya"
 July 2010 - Present
 
-Writing essays and articles about Human, LGBTI and Woman rights. Having aim of underlining discrimination against minorities in Turkey, being a transgender woman cinema & TV student and raising awareness between Bilgi University Students.
+> Writing essays and articles about Human, LGBTI and Woman rights. Having aim of underlining discrimination against minorities in Turkey, being a transgender woman cinema & TV student and raising awareness between Bilgi University Students.
 
 ### MaskIstanbul
 January 2009 - August 2009
 
 > Stage photography, director of documentaries, assistant of Lead Director (Janset Karavin) & Pantomime artist (Fatih Kolçak)
+
+### Cast Director at Oskar Ajans
+December 2009 - March 2010
+
+> Helped to Manaegement of Actors and Actresses, added their information to database, caring special needs of them.
 
 ### Representative of awarded "My Child Documentary" and LGBTI activist
 November 2010 - Present
@@ -87,4 +103,4 @@ Made several presentations and speech at documentary tour and Q&A events.
 ## Personal Interests
 Music | Art History | Filmmaking | Creative writing | LGBTI & Human Rights | Politics | Family Issues | Public Relations | Humanistic activities
 
-> As a female transgender person interested in arts, humanity, human rights activism, spiritualistic studies, my main aim is to help other people with similar problems and raising awareness of Turkish people, however also the self awareness of people to help themselves.
+> As a person interested in arts, humanity, human rights activism, spiritualistic studies, my main aim is to help other people with social identity problems and raising awareness of Turkish people, however also the self awareness of people to help themselves.
