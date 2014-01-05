@@ -16,7 +16,7 @@ Senior Cinema&TV Student at Istanbul Bilgi University, Author at awarded Bilgili
 September 2008 - January 2014
 
 University Projects 
-* Director of successful freshman year movie project of "Kosarken Kalmak" about human phycology, supervised by Anita Oğurlu (2009)
+* Director of successful freshman year movie project of "Kosarken Kalmak" about human psychology, supervised by Anita Oğurlu (2009)
 * Volunteer at Rainbow Student Club of Istanbul Bilgi University (2011)
 * Director of short movie "Daydream" movie making project supervised by Refik Anadol (2011)
 * Made exceptional studies at Woman and Media, Human Rights fields, supervised by Itır Erhart (2012)
@@ -43,7 +43,7 @@ January 2014 - Present
 > Intern at agency supervised by Beti Hekimoglu and Salih Memecan, training at social media, marketing and promotion.
 
 ### Author at Azınlık Sanat
-January 2014 - Presetn
+January 2014 - Present
 
 > Writing essays about art, lifestyle, movies and social issues. Blog is supervised by Ergi Ozcan, social media director at Medya Derneği (Media Association of Turkey)
 
