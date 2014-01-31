@@ -1,12 +1,11 @@
 # Mutlu Kocak
 Computer Scientist & Engineer
 
-> Mobile: +420 776 186 360 
+> Mobile: +90 533 742 87 08
 > Email: mtkocak@mtkocak.net 
-> Blog: http://www.mtkocak.net 
 > Github: http://www.github.com/mtkocak 
-> Book: http://www.meraklibilisimci.com 
-> Adress: Parizska 5, Praha 1, 110 00 Prague Czech Republic 
+> Blog: http://www.meraklibilisimci.com 
+> Adress: Karanfil Sok. 6A Daire:51 Ataköy 9. Kısım Bakırköy İstanbul 
 > Birthdate: 10 May 1984 
 
 ## About
@@ -35,8 +34,18 @@ September 1996 – June 2003
 
 ## Work Experience
 
+### Zapgroup - Software Engineer
+November 2013 - Present
+
+> Software development of web applications, content management systems, network marketing tool. Using IT solutions for project management. Project management, task assignment using BaseCamp software.
+
+### Freelance Projects
+September 2013 - November 2013
+
+> Freelance web projects cooperation with Istanbul74 studio, backend coding of several projects like, leatherdesign.org, museistanbul.com.
+
 ### Golden & Silver, s.r.o | Software Engineer & IT Manager
-Nowember 2012 - Present
+Nowember 2012 - September 2013
 
 > Management & co-development of Software Projects, IT Infrastructure, virtualisation of existing business apps on Microsoft Azure Platform, leading of creative team.
 
