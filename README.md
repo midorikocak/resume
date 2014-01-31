@@ -1,4 +1,4 @@
-# Mutlu Tevfik Kocak
+# Mutlu Kocak
 Computer Scientist & Engineer
 
 > Mobile: +420 776 186 360 
