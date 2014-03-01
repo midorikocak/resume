@@ -34,8 +34,13 @@ September 1996 – June 2003
 
 ## Work Experience
 
-### Zapgroup - Software Engineer
-November 2013 - Present
+### Freelance Projects
+March 2014 - Present
+
+> Freelance web projects cooperation several design studios of Istanbul, back-end coding of several projects like, petracoffee.com, erincseymen.com etc.
+
+### Zapgroup - Software Engineer - Project Contractor
+November 2013 - February 2014
 
 > Software development of web applications, content management systems, network marketing tool. Using IT solutions for project management. Project management, task assignment using BaseCamp software.
 
